@@ -1,4 +1,4 @@
-##Journal Full-Stack
+## Journal Full-Stack:
 
 This is a full stack web application with authentication that allows the user to write private journal entries, that other users cannot read.
 
