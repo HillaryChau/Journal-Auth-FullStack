@@ -1,15 +1,68 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
 body{
-  padding-top:80px;
-  word-wrap:break-word;
-}
-img{
-  height: 200px;
+  background-color: rgb(135, 195, 206);
+  background: url('img/journal.jpeg') center no-repeat;
+  background-size: cover;
 }
 
-.fa-trash::before {
-    content: "\f014";
+.jumbotron{
+  background-color: rgba(255, 0, 0, 0);
 }
 
-.hidden{
-  display: none;
+h3{
+  margin-left: 35%;
 }
+
+button:hover{
+  color: aqua;
+}
+
+.directions{
+  font-size: 1rem;
+  width: 80%;
+  margin-left: 5%;
+}
+
+input[name="msg"]{
+  width: 40%;
+  padding-bottom: 200px;
+}
+
+
+.li{
+  font-size: 15px;
+  display: block;
+  border: 2px solid blue;
+  padding: 5px;
+}
+
+.messages{
+  margin-left: 30%;
+}
+
+.newEntry{
+  width: 50%;
+  margin-left: 40%;
+}
+
+button:hover{
+  color: aqua;
+}
+
+::before{
+  margin-left: 10px;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/

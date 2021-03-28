@@ -1,13 +1,13 @@
-## Installation
+##Journal Full-Stack
 
-1. Clone repo
-2. run `npm install`
+This is a full stack web application with authentication that allows the user to write private journal entries, that other users cannot read.
 
-## Usage
+## How It's Made:
+Tech used: HTML, CSS, JavaScript
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
+##Lesson Learned:
+
+Super excited that I was able to use the filter method to make the entries private.
 
 ## Credit
-
-Modified from Scotch.io's auth tutorial
+House Moses
