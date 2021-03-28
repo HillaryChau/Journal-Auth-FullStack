@@ -56,8 +56,13 @@ input[name="msg"]{
   margin-left: 40%;
 }
 
-button:hover{
-  color: aqua;
+.btn-default:hover{
+  background-color: lightgreen;
+}
+
+.btn-default{
+  text-align: center;
+  background-color: rgb(240, 173, 78);
 }
 
 ::before{
