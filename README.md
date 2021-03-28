@@ -3,7 +3,7 @@
 This is a full stack web application with authentication that allows the user to write private journal entries, that other users cannot read.
 
 ## How It's Made:
-Tech used: HTML, CSS, JavaScript
+Tech used: HTML, CSS, JavaScript, MongoDb, Node.js
 
 <img src="public/img/Jhome.PNG" alt="journal image" style="height: 100px; width:100px;"/>
 
